@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeService", "EmployeeService\EmployeeService.csproj", "{9833621B-8C1C-458C-A718-BF2B85C8748A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeServiceHost", "EmployeeServiceHost\EmployeeServiceHost.csproj", "{579CA6E1-F322-4AB7-8C0E-D75412C6225D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9833621B-8C1C-458C-A718-BF2B85C8748A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9833621B-8C1C-458C-A718-BF2B85C8748A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9833621B-8C1C-458C-A718-BF2B85C8748A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9833621B-8C1C-458C-A718-BF2B85C8748A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579CA6E1-F322-4AB7-8C0E-D75412C6225D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579CA6E1-F322-4AB7-8C0E-D75412C6225D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579CA6E1-F322-4AB7-8C0E-D75412C6225D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579CA6E1-F322-4AB7-8C0E-D75412C6225D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
