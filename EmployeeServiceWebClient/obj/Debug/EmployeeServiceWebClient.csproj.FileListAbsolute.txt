@@ -1,0 +1,5 @@
+D:\Project\EmployeeServiceWebClient\EmployeeServiceWebClient\bin\EmployeeServiceWebClient.dll
+D:\Project\EmployeeServiceWebClient\EmployeeServiceWebClient\bin\EmployeeServiceWebClient.pdb
+D:\Project\EmployeeServiceWebClient\EmployeeServiceWebClient\obj\Debug\EmployeeServiceWebClient.csprojResolveAssemblyReference.cache
+D:\Project\EmployeeServiceWebClient\EmployeeServiceWebClient\obj\Debug\EmployeeServiceWebClient.dll
+D:\Project\EmployeeServiceWebClient\EmployeeServiceWebClient\obj\Debug\EmployeeServiceWebClient.pdb
